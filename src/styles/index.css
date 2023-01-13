@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.f12 {
+  font-size: 0.7500em !important;
+}
+
+.f14 {
+  font-size: 0.87500em !important;
+}
+
+.f16 {
+  font-size: 1em !important;
+}
+
+.f18{
+  font-size: 1.125em !important;
+}
+
+.f20{
+  font-size: 1.25em !important;
+}
+
+.f22{
+  font-size: 1.375em !important;
+}
+.f25{
+  font-size: 1.5625em !important;
+}
+.fb{
+  font-weight: bold !important;
+}
+.text-black{
+color:#000;
+}
+.text-gray{
+  color:#bfbfbf;
+}
+.text-orange{
+  color:#FFA001;
+}
+.text-pink{
+  color:#db0381;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.product-price {
+  font-size: 1em;
+}
+
+.product-card {
+  border: 1px solid #e0dddd94 !important;
+  height: 28em !important;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.product-carddetails{
+  height: max-content !important;
+  
+}
+.product-image{
+  width: 80%!important;
+ 
+  height: 80%!important;
+}
+.product-cart-image{
+  width: 60%!important;
+ 
+  height: 60%!important;
+}
+.product_cart_container{
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.buy-btn{
+  background-color: transparent !important;
+  border-color: #bfbfbf !important  ;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.cart-btn{
+  background-color: #db0381 !important;
+  border-color: #db0381 !important  ;
+}

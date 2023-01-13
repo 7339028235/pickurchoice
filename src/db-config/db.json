@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Logitech B170 Wireless Mouse",
+      "href": "#",
+      "price": "₹595",
+      "imageSrc": "/logitech_mouse.jpg",
+      "imageAlt": "Logitech B170 Wireless Mouse",
+      "shortnote": "Logitech B170 Wireless Mouse, 2.4 GHz with USB Nano Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous, PC/Mac/Laptop - Black",
+      "details": "Logitech B170 Wireless Mouse, 2.4 GHz with USB Nano Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous, PC/Mac/Laptop - Black",
+      "addtocart": false
+    },
+    {
+      "id": 2,
+      "name": "Echo Dot (4th Gen, 2020 release)",
+      "href": "#",
+      "price": "₹4,499",
+      "imageSrc": "/alexa.jpg",
+      "imageAlt": "Echo Dot (4th Gen, 2020 release) with clock | Next generation smart speaker with powerful bass, LED display and Alexa (White)",
+      "shortnote": "Echo Dot (4th Gen, 2020 release) with clock | Next generation smart speaker with powerful bass, LED display and Alexa (White)",
+      "details": "Echo Dot (4th Gen, 2020 release) with clock | Next generation smart speaker with powerful bass, LED display and Alexa (White)",
+      "addtocart": false
+    },
+    {
+      "id": 3,
+      "name": "Logitech K480 Wireless Multi-Device Keyboard",
+      "href": "#",
+      "price": "₹2,995",
+      "imageSrc": "/logitech_keyboard.jpg",
+      "imageAlt": "Logitech K480 Wireless Multi-Device Keyboard for Windows, macOS, iPadOS, Android or Chrome OS, Bluetooth, Compact, Compatible with PC, Mac, Laptop, Smartphone, Tablet - Black",
+      "shortnote": "Logitech K480 Wireless Multi-Device Keyboard for Windows, macOS, iPadOS, Android or Chrome OS, Bluetooth, Compact, Compatible with PC, Mac, Laptop, Smartphone, Tablet - Black",
+      "details": "Logitech K480 Wireless Multi-Device Keyboard for Windows, macOS, iPadOS, Android or Chrome OS, Bluetooth, Compact, Compatible with PC, Mac, Laptop, Smartphone, Tablet - Black",
+      "addtocart": true
+    },
+    {
+      "id": 4,
+      "name": "ASUS Vivobook 16X (2022)",
+      "href": "#",
+      "price": "₹49,990",
+      "imageSrc": "/asus_laptop.jpg",
+      "imageAlt": "ASUS Vivobook 16X (2022), 16-inch (40.64 cms) WUXGA, AMD Ryzen 5 5600H, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Quiet Blue/1.8 kg), M1603QA-MB502WS",
+      "shortnote": "ASUS Vivobook 16X (2022), 16-inch (40.64 cms) WUXGA, AMD Ryzen 5 5600H, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Quiet Blue/1.8 kg), M1603QA-MB502WS",
+      "details": "ASUS Vivobook 16X (2022), 16-inch (40.64 cms) WUXGA, AMD Ryzen 5 5600H, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Quiet Blue/1.8 kg), M1603QA-MB502WS",
+      "addtocart": true
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy Watch5 Bluetooth",
+      "href": "#",
+      "price": "₹30,999",
+      "imageSrc": "/smart_watch.jpg",
+      "imageAlt": "Samsung Galaxy Watch5 Bluetooth (44 mm, Sapphire, Compatible with Android only)",
+      "shortnote": "Samsung Galaxy Watch5 Bluetooth (44 mm, Sapphire, Compatible with Android only)",
+      "details": "Samsung Galaxy Watch5 Bluetooth (44 mm, Sapphire, Compatible with Android only)",
+      "addtocart": false
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy A33 5G",
+      "href": "#",
+      "price": "₹27,499",
+      "imageSrc": "/samsung_smart_mobile.jpg",
+      "imageAlt": "Samsung Galaxy A33 5G (Light Blue, 8GB RAM, 128GB Storage)",
+      "shortnote": "Samsung Galaxy A33 5G (Light Blue, 8GB RAM, 128GB Storage) | 48 MP No Shake Cam | Voice Focus | 16 GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+      "details": "Samsung Galaxy A33 5G (Light Blue, 8GB RAM, 128GB Storage) | 48 MP No Shake Cam | Voice Focus | 16 GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+      "addtocart": false
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy Buds2 Pro",
+      "href": "#",
+      "price": "₹17,590",
+      "imageSrc": "/samsung_buds.jpg",
+      "imageAlt": "Samsung Galaxy Buds2 Pro, Bluetooth Truly Wireless in Ear Earbuds with Noise Cancellation (Bora Purple, with Mic)",
+      "shortnote": "Samsung Galaxy Buds2 Pro, Bluetooth Truly Wireless in Ear Earbuds with Noise Cancellation (Bora Purple, with Mic)",
+      "details": "Samsung Galaxy Buds2 Pro, Bluetooth Truly Wireless in Ear Earbuds with Noise Cancellation (Bora Purple, with Mic)",
+      "addtocart": false
+    },
+    {
+      "id": 8,
+      "name": "ECOVACS DEEBOT N8 2-in-1 Robotic Vacuum Cleaner",
+      "href": "#",
+      "price": "₹27,900",
+      "imageSrc": "room_cleaner.jpg",
+      "imageAlt": "ECOVACS DEEBOT N8 2-in-1 Robotic Vacuum Cleaner, 2022 New Launch, Most Powerful Suction, Covers 2000+ Sq. Ft in One Charge, Advanced dToF Technology with OZMO Mopping (DEEBOT N8) - White",
+      "shortnote": "ECOVACS DEEBOT N8 2-in-1 Robotic Vacuum Cleaner, 2022 New Launch, Most Powerful Suction, Covers 2000+ Sq. Ft in One Charge, Advanced dToF Technology with OZMO Mopping (DEEBOT N8) - White",
+      "details": "ECOVACS DEEBOT N8 2-in-1 Robotic Vacuum Cleaner, 2022 New Launch, Most Powerful Suction, Covers 2000+ Sq. Ft in One Charge, Advanced dToF Technology with OZMO Mopping (DEEBOT N8) - White",
+      "addtocart": false
+    }
+  ]
+}
